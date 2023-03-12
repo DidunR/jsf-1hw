@@ -23,7 +23,6 @@ console.log(teslaCar);
 
 //5
 const areYouAdult = confirm("Are you adult?");
-console.log(areYouAdult);
 const isAdult = areYouAdult;
 console.log(isAdult);
 
