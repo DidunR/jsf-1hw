@@ -46,8 +46,8 @@ console.log(animal);
 const yourName = prompt("What is your name?");
 const yourEmail = prompt("What is your e-mail?");
 const yourParol = prompt("What is your parol?");
-let info = "'Dear " + yourName + ", your email is " + yourEmail + ", your password is " + yourParol + "'";
-alert(info);
+let yourInfo = "'Dear " + yourName + ", your email is " + yourEmail + ", your password is " + yourParol + "'";
+alert(yourInfo);
 
 //8
 let secondInMinute = 60;
